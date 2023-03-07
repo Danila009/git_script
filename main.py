@@ -6,6 +6,8 @@ print('git password')
 from_password = input()
 print('limit repository')
 limit = int(input())
+print('page repository')
+page = int(input())
 print('push github repos [y/n]')
 cloneRepos = input()
 
@@ -15,6 +17,6 @@ if cloneRepos == 'y':
     print('github token')
     token_github = input()
 
-    push_repos(from_username, from_password, to_username, token_github, limit)
+    push_repos(from_username, from_password, to_username, token_github, limit, page)
 else:
-    download_repos(from_username, from_password, limit)
+    download_repos(from_username, from_password, limit, page)

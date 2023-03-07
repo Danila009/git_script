@@ -4,14 +4,19 @@
     <mapping directory="$PROJECT_DIR$" vcs="" />
     <mapping directory="$PROJECT_DIR$/Mobile_Rest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Animal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/AnimationComposeNavigation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/ApiSchool" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/ArgumentDataCompose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/CheckInternetConnection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Cloud_Firestore" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Compose" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Dagger" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Diplom" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/FastestDeliveryApi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Fastest_Delivery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/FinnApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/FirebaseNotes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Flow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Google_Map" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Image_Loading" vcs="Git" />
@@ -19,20 +24,33 @@
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Jetpack_Compose_v2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/KinoPoiskApi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Kinopoisk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Lottie_animatiom" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Mobile_Rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/NotRetrofit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Pagination" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/PreferencesDataStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/ProtoDataStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Realm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Realtime_database" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Room_Requests" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/RxJava" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/SQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/SQLDelight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/SpotifyApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Spotify_Firebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Storage" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/TavolgaDimaWorldskills" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/TesyNew" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Victoria_Alexandrovna" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Weor_compose" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/WorkManager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/WorldskillsFoodator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Worldskills_Bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/Worldskills_shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/compose_multiplatform_desktop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/ktor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/push_notifications" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/putExtra_forDanila" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/repos_ISPr24-39_BeluakovDS/xakaton" vcs="Git" />
   </component>
